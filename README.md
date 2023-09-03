@@ -12,7 +12,7 @@
 <h1 align="center">
 <a href="https://www.instagram.com/oussamarhiti/">
   <img align="center" 
-       alt="Lunox's Instagram" 
+       alt="Oussama's Instagram" 
        width="22px" 
        src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
   </a>
@@ -83,11 +83,11 @@
     
 <a href="https://github.com/oussama-rhiti?tab=repositories">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-rhiti-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
        alt='Oussama's favorite languages" />
 </a>
 
 <a href="https://github.com/oussama-rhiti">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
+       src="https://github-readme-stats.vercel.app/api?username=oussama-rhiti-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
 </a>
