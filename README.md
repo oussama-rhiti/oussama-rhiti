@@ -81,13 +81,13 @@
       <div align="center">
     </p>
     
-<a href="https://github.com/oussama-rhiti?tab=repositories">
+<a href="https://github.com/oussama-rhit?tab=repositories">
   <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-rhiti-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
        alt='Oussama's favorite languages" />
 </a>
 
 <a href="https://github.com/oussama-rhiti">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=oussama-rhiti-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
+       src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
 </a>
